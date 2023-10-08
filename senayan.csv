@@ -1,0 +1,178 @@
+﻿update;: 27-07-2023;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+;MONITORING KAPASITAS SERVER STORAGE;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;
+NO;TYPE;HOSTNAME MGMT;IP MGMT;SN;TIPE;OS;KAPASITAS TB;USAGE TB;USAGE (%);CPU GB;Slot Dimm;Slot Dimm Usage;RAM (GB);Slot HDD;Jumlah HDD;Jenis HDD;PIC;LAYANAN;IP LAYANAN;HOSTNAME LAYANAN;Tahun Pengadaan;Expired;END OF WARRANTY
+;PowerEdge M640;172.16.91.21;172.16.91.21;68B80T2;Server;VMware Esxi 6.5;0,278;0,013;4,68%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.22;172.16.91.22;68C90T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.23;172.16.91.23;704D0T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.24;172.16.91.24;700B0T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.25;172.16.91.25;68CF0T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.26;172.16.91.26;68D60T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.27;172.16.91.27;70390T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M640;172.16.91.28;172.16.91.28;68DC0T2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;16;6;192;2;2;2 x SAS HDD;;;;;;13/12/2021;
+;PowerEdge M630;VSPHERE09;172.16.91.29;FVNFS62;Server;VMware Esxi 6.5;0,278;0,016;5,76%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE10;172.16.91.30;FVN6V72;Server;VMware Esxi 6.5;0,278;0,034;12,23%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE11;172.16.91.31;FVN3V72;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE12;172.16.91.32;FVNCS62;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE13;172.16.91.33;FVMHH62;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE14;172.16.91.34;33M9HD2;Server;VMware Esxi 6.5;0,278;0,154;55,40%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE15;172.16.91.35;33N6HD2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerEdge M630;VSPHERE16;172.16.91.36;33M3HD2;Server;VMware Esxi 6.5;0,278;0,008;2,88%;24;24;8;128;2;2;2 x SAS HDD;;;;;;End Of Warranty;1
+;PowerVault ME4012;dc01-storage02a.dpr.go.id;"172.16.91.50
+172.16.91.51";DRYK6Z2;Storage;;200;63,6;31,80%;;;;24;24;17;17 x HDD;;;;;;01/10/2024;
+;PowerEdge R640;172.16.91.106;172.16.91.106;DVJP6Z2;Server;;0,278;0;0,00%;20;24;4;64;2;2;2 x SATA HDD;;;;;;02/10/2022;
+;PRIMERGY RX2540 M5;dc01-jkd-edge01.dpr.go.id;172.16.88.31;MASQ022328;Server;CentOS Linux 7.9.2009;1,7;0,089;5,24%;20;26;4;128;10;10;10 x HDD;;;;;;;
+;PRIMERGY RX2540 M5;dc01-jkd-edge02.dpr.go.id;172.16.88.32;MASQ022337;Server;CentOS Linux 7.9.2009;1,7;0,017;1,00%;20;26;4;128;10;10;10 x HDD;;;;;;;
+;IBM x3650 M3;DPRPERPUSTAKAAN01;192.168.0.12;06FE991;Server;Windows Server 2008;0,135;0,088;65,19%;4;;;4;16;2;2 x SAS HDD;;;;;;End Of Warranty;
+;HPE ProLiant DL380 ;dc01-alletra01;"172.16.91.111
+172.16.91.112";AF-245367;Storage;;215,4;0,631;0,29%;;;;;;;;;;;;;;
+;HPE ProLiant DL380 ;DC01-server01;172.16.91.114;SGH246SBR4;Server;VMware ESXi 6.7.0;0,96;0,067;6,98%;32;24;16;256;2;2;2 x SAS HDD;;;;;;;
+;NAS LenovoEMC™ px12-450r;FS00DPRRI;172.16.90.10;CVCC11000E;NAS;;;;;4;-;-;8;12;4;SATA 3.5;EL;;10.70.6.110;;;24/09/2015;
+;NAS LenovoEMC™ px12-450r;FS01;"172.16.90.11
+10.70.6.111";70BR9001WWS1000002;NAS;;27,11;6,19;22,83%;4;-;-;8;12;12;SATA 3.5;EL;fileakd.dpr.go.id;10.70.6.111;;;01/07/2018;
+;;;;;;;;;;;;;;;;;;filebmn.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepengaduan.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS02;"172.16.90.12
+10.70.6.112";70BR9001WWS100000G;NAS;;27,12;0,92;3,39%;4;-;-;8;12;12;SATA 3.5;EL;fileinspektorat.dpr.go.id;10.70.6.112;;;25/12/2017;
+;;;;;;;;;;;;;;;;;;filebakn.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepansus.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepemberitaan.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filerisalah.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepenerbitan.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS03;"172.16.90.13
+10.70.6.113";70BR9001WWS100000F;NAS;;30,73;7,41;24,11%;4;-;-;8;12;12;SATA 3.5;EL;fileardok.dpr.go.id;10.70.6.113;;;09/10/2017;
+;;;;;;;;;;;;;;;;;;filebaleg.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filebamus.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileevapor.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filekomisi8.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filemuspim.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileaperjalanan.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileperpus.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileprotokol.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepusdatin.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filerb.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filetuta.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filetupusdatin.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS04;"172.16.90.14
+10.70.6.114";70BR9001WWS100000Y;NAS;;30,73;1,79;5,82%;4;-;-;8;12;12;SATA 3.5;EL;filebksap.dpr.go.id;10.70.6.114;;;09/10/2017;
+;;;;;;;;;;;;;;;;;;filekepegawaian.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileortala.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS05;"172.16.90.15
+10.70.6.115";70BR9001WWS100000B;NAS;;16,26;0,33;2,03%;4;-;-;8;12;10;SATA 3.5;EL;filedeputi.dpr.go.id;10.70.6.115;;;09/10/2017;
+;;;;;;;;;;;;;;;;;;filepimpinan.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS06;"172.16.90.16
+10.70.6.116";70BR9001WWS100000A;NAS;;27,11;10,96;40,43%;4;-;-;8;12;12;SATA 3.5;EL;filebanggar.dpr.go.id;10.70.6.116;;;09/10/2017;
+;;;;;;;;;;;;;;;;;;filemedsos.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS07;"172.16.90.17
+10.70.6.117";70BR9001WWS1BE160001;NAS;;27,11;3,85;14,20%;4;-;-;8;12;12;SATA 3.5;EL;filediklat.dpr.go.id;10.70.6.117;;;09/10/2017;
+;;;;;;;;;;;;;;;;;;filehumas.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filemkd.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepersipar.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepersuratan.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;fileulp.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filerosid.dpr.go.id;;;;;
+;NAS LenovoEMC™ px12-450r;FS08;"172.16.90.18
+10.70.6.118";70BR9001WWS1000008;NAS;;27,11;10,8;39,84%;4;-;-;8;12;12;SATA 3.5;EL;fileittu.dpr.go.id;10.70.6.118;;;09/03/2018;
+;;;;;;;;;;;;;;;;;;filemedsos2.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepuslit.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;filepuu.dpr.go.id;;;;;
+;;;;;;;;;;;;;;;;;;karwas.dpr.go.id;;;;;
+;RS3617xs;FS09;"172.16.90.19
+10.70.6.119";1770NSN172900;NAS;;96;11,15;11,61%;4;-;-;4;12;12;HDD;EL;file.dpr.go.id;10.70.6.119;;;End Of Warranty;1
+;Synology RS2418+;FS10;"172.16.90.20
+10.70.6.120";1910P8N026800;NAS;;134,4;117,2;87,20%;4;-;-;64;12;12;SATA 3.5;EL;filetvr.dpg.go.id;10.70.6.120;;;End Of Warranty;1
+;Synology RS2418+;FS11;"172.16.90.21
+10.70.6.121";1910P8N107300;NAS;;134,4;0,00007188;0,00%;4;-;-;64;12;12;SATA 3.5;EL;filearmus.dpr.go.id;10.70.6.121;;;End Of Warranty;1
+;Synology RS2418+;FS12;"172.16.90.22
+10.70.6.122";19A0P9N551000;NAS;;134,4;44,5;33,11%;4;-;-;64;12;12;SATA 3.5;EL;filemedsos.dpr.go.id;10.70.6.122;;;End Of Warranty;1
+;EMC VNX 5200;CKM62301386;"172.16.91.40
+172.16.91.41";CKM62301386;Storage;;23;9,484;41,23%;;;;;25;25;25 x SAS HDD;IBRAHIM, GERRY;portal.dpr.go.id;172.16.30.11;;;;
+;;;;;;;;;;;;;;;;;;esign.dpr.go.id;192.168.1.123;;;;
+;;;;;;;;;;;;;;;;;;sniper.dpr.go.id;172.16.96.27;;;;
+;;;;;;;;;;;;;;;;;;sniper.dpr.go.id;172.16.96.27;;;;
+;;;;;;;;;;;;;;;;;;keuangan.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;parja.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;siinda.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;bmn.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;siterang.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;siterang.dpr.go.id;172.16.96.24;;;;
+;;;;;;;;;;;;;;;;;;sileg.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;humas.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;humas.dpr.go.id;172.16.96.21;;;;
+;;;;;;;;;;;;;;;;;;pemberitaan.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;medsos.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;akd.dpr.go.id/siaparat/index;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;setjen.dpr.go.id/admin/si-dokter/index;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;sileg.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;akd.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;setjen.dpr.go.id/admin/si-dokter/index;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;akd.dpr.go.id;172.16.96.20;;;;
+;;;;;;;;;;;;;;;;;;sialda.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;standardisasi.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;sidila.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;siratu.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;siratu.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;siratu.dpr.go.id/admin/index/index-on-time;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;bukuputih.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;perpus.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;minluna.dpr.go.id;172.16.96.28;;;;
+;;;;;;;;;;;;;;;;;;sitanang.dpr.go.id;172.16.96.17;;;;
+;;;;;;;;;;;;;;;;;;legalitas.dpr.go.id;172.16.96.17;;;;
+;;;;;;;;;;;;;;;;;;jdih.dpr.go.id;172.16.96.17;;;;
+;;;;;;;;;;;;;;;;;;elearning.dpr.go.id;172.16.96.17;;;;
+;;;;;;;;;;;;;;;;;;jdih.dpr.go.id;172.16.96.17;;;;
+;;;;;;;;;;;;;;;;;;sigad.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;disiplin.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;perencanaan.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;kendaraan.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;tnde.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;tim.dpr.go.id;172.16.96.18;;;;
+;;;;;;;;;;;;;;;;;;kliping.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;epaper.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;sidiklat.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;kliping.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;epaper.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;sipinter.dpr.go.id;172.16.96.14;;;;
+;;;;;;;;;;;;;;;;;;wbs.dpr.go.id;172.16.96.16;;;;
+;;;;;;;;;;;;;;;;;;sigota.dpr.go.id;172.16.96.16;;;;
+;;;;;;;;;;;;;;;;;;ppkp.dpr.go.id;172.16.96.16;;;;
+;;;;;;;;;;;;;;;;;;yankes.dpr.go.id;172.16.96.16;;;;
+;;;;;;;;;;;;;;;;;;semar.dpr.go.id;172.16.96.16;;;;
+;;;;;;;;;;;;;;;;;;siap.dpr.go.id;172.16.96.26;;;;
+;;;;;;;;;;;;;;;;;;pamdal.dpr.go.id;172.16.96.26;;;;
+;;;;;;;;;;;;;;;;;;pamdal.dpr.go.id;172.16.96.26;;;;
+;;;;;;;;;;;;;;;;;;pamdal.dpr.go.id;172.16.96.26;;;;
+;;;;;;;;;;;;;;;;;;tvr.dpr.go.id;192.168.0.21;;;;
+;;;;;;;;;;;;;;;;;;ppid.dpr.go.id;192.168.0.21;;;;
+;;;;;;;;;;;;;;;;;;pengaduan.dpr.go.id;192.168.0.21;;;;
+;;;;;;;;;;;;;;;;;;pusdiklat.dpr.go.id;192.168.0.21;;;;
+;;;;;;;;;;;;;;;;;;jurnal.dpr.go.id;192.168.0.26;;;;
+;;;;;;;;;;;;;;;;;;ittama.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;pusatpuu.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;puslit.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;pusatpuu.dpr.go.id/simas-puu/index;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;korpri.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;sdip.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;sejati.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;puspanlakuu.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;puspanlakuu.dpr.go.id/sipanlak-uu/index/id/2;192.168.0.28;;;;
+;;;;;;;;;;;;;;;;;;puspanlakuu.dpr.go.id/perlak-uu/index/id/1;192.168.0.29;;;;
+;;;;;;;;;;;;;;;;;;pusatpuu.dpr.go.id;192.168.0.27;;;;
+;;;;;;;;;;;;;;;;;;perisai.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;sirajin.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;bdti.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;bdti.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;aladin.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;perpustakaan.dpr.go.id;192.168.0.31;;;;
+;;;;;;;;;;;;;;;;;;ksap.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;https://ketua.dpr.go.id/admin/index;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;siperdana.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;pusatdata.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;pusatdata.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;ksap.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;ksap.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;ksap.dpr.go.id;192.168.0.37;;;;
+;;;;;;;;;;;;;;;;;;sinona.dpr.go.id;192.168.0.34;;;;
+;;;;;;;;;;;;;;;;;;ppnpn.dpr.go.id;192.168.0.34;;;;
+;;;;;;;;;;;;;;;;;;sinona.dpr.go.id;192.168.0.34;;;;
